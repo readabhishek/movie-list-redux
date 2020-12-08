@@ -1,4 +1,27 @@
+# Steps to execute the Project
+  
+  1) Go to workspace folder in your system
+  
+  2) run command  
+     ```shell script 
+     git clone  <repository url> 
+     ```
+	 
+  3) The above command will create a project folder under the current directory/workspace.
+  4) Go to project folder
+     ```shell script 
+     cd <project-folder>
+	 ```
+  5) run command
+     ```shell script 
+     npm install
+     ```
+  6) This will install all dependencies from the package.json file and download them in node_modules folder
 
+  7) run project by command
+     ```shell script 
+     npm start  
+     ```
 # This Project is Movie List Website, which loads the list of Movies from a data file.
   
   It uses ReactJS code.
