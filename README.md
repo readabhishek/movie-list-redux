@@ -1,3 +1,8 @@
+
+# This Project is Movie List Website, which loads the list of Movies from a data file.
+  
+  It uses ReactJS code.
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
